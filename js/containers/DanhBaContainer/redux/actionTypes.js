@@ -1,0 +1,6 @@
+
+export const MENU2_GET_REQUESTED = "MENU2_GET_REQUESTED";
+export const MENU2_GET_SUCCESS = "MENU2_GET_SUCCESS";
+export const MENU2_GET_FAILED = "MENU2_GET_FAILED";
+export const MENU2_INFO = "MENU2_INFO";
+
